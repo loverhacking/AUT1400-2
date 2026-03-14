@@ -2,3 +2,4 @@ This repository contains the solution code for [AP1400-2](https://github.com/sea
 * hw1: implemnt a `Matrix` class with basic operations.
 * hw2: implement a program simulating the execution process of a cryptocurrency client/server.
 * hw3: implement a binary search tree (BST) with basic operations.
+* hw4: implement a `UniquePtr` and `SharedPtr` class with basic operations.
